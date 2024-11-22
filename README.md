@@ -79,6 +79,8 @@ Follow these steps to clone and run the **Photographer Portfolio** on your local
 
 Meet `Prakhar Katiyar` 🙋🏻‍♂️ , An avid learner with a passion for mastering the `MERN (MongoDB, Express.js, React.js, Node.js)` stack 🎯 and diving deep into `Data Structures and Algorithms (DSA)` 🧑🏻‍💻
 
+<br/>
+
 ## More Images 🏕️
 
 ![image](https://github.com/user-attachments/assets/31bcfb5d-0dc1-44f6-997b-90720227cb44)
