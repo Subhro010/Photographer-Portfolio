@@ -43,10 +43,6 @@ Welcome to the `Photographer Portfolio` – a stunning and professional showcase
 
 Follow these steps to clone and run the **Photographer Portfolio** on your local machine:
 
-### 📂 Repository Information
-
-- **GitHub Repository**: [Photographer Portfolio - Prakhar](https://github.com/Prakhar-002/Photographer-Portfolio)
-
 ---
 
 ### 🛠️ Steps to Clone and Run Locally
