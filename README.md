@@ -43,7 +43,6 @@ Welcome to the `Photographer Portfolio` – a stunning and professional showcase
 
 Follow these steps to clone and run the **Photographer Portfolio** on your local machine:
 
----
 
 ### 🛠️ Steps to Clone and Run Locally
 
