@@ -76,7 +76,7 @@ Meet `Prakhar Katiyar` 🙋🏻‍♂️ , An avid learner with a passion for ma
 
 <br/>
 
-## More Images 🏕️
+## Picture Library 🏕️
 
 ![image](https://github.com/user-attachments/assets/31bcfb5d-0dc1-44f6-997b-90720227cb44)
 ![image](https://github.com/user-attachments/assets/c0378246-196d-471e-97fa-138927d14b9d)
