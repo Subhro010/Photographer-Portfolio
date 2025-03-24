@@ -13,8 +13,7 @@ Welcome to the `Photographer Portfolio` – a stunning and professional showcase
 
 # Screenshots 📸.𖥔 ˖
 
-![image](https://github.com/user-attachments/assets/277d9e14-ab73-458d-a196-153524dae928)
-![image](https://github.com/user-attachments/assets/dd41b4ec-19cd-4fa9-bf87-7b352bb2312d)
+![Photographer Portfolio Gif](https://github.com/user-attachments/assets/13e86493-beeb-4d4b-a32e-908a367c04ad)
 
 
 <br/>
@@ -78,6 +77,8 @@ Meet `Prakhar Katiyar` 🙋🏻‍♂️ , An avid learner with a passion for ma
 
 ## Picture Library 🏕️
 
+![image](https://github.com/user-attachments/assets/277d9e14-ab73-458d-a196-153524dae928)
+![image](https://github.com/user-attachments/assets/dd41b4ec-19cd-4fa9-bf87-7b352bb2312d)
 ![image](https://github.com/user-attachments/assets/31bcfb5d-0dc1-44f6-997b-90720227cb44)
 ![image](https://github.com/user-attachments/assets/c0378246-196d-471e-97fa-138927d14b9d)
 ![image](https://github.com/user-attachments/assets/47990af4-77d6-4e99-9c6c-76a30280192e)
